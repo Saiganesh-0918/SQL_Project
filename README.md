@@ -51,43 +51,48 @@ Data Modeling
 
 Features Implemented
 
-Database Creation and Table Design
+Database creation and table design
 
-Data Import from CSV Files
+Data import from CSV files
 
-Basic and Advanced SQL Queries
+Basic and advanced SQL queries
 
-Joins and Aggregations
+Joins and aggregations
 
-Indexing for Performance Optimization
+Indexing for performance optimization
 
-Views and Stored Procedures
+Views and stored procedures
 
 Common Table Expressions (CTE)
 
-Window Functions
+Window functions
 
 How to Run the Project
 Step 1: Create Database
 
 Run the script located at:
+
 creation/database.sql
 
 Step 2: Create Tables
 
 Run the script located at:
+
 creation/tables.sql
 
 Step 3: Load Data
 
 Run the script located at:
+
 load/data.sql
 
-(Ensure CSV file paths are correctly configured in the script)
+
+Ensure CSV file paths are correctly configured in the script.
 
 Step 4: Execute Queries
 
 Run individual SQL files inside the operations folder or execute the master script:
+
 exec.sql
 
 Learning Outcomes
@@ -102,11 +107,11 @@ Managing structured datasets
 
 Use Case
 
-This project simulates a Banking Database System used to manage customers, accounts, and transaction data.
+This project simulates a banking database system used to manage customers, accounts, and transaction data.
 
 Future Improvements
 
-Add ER Diagram
+Add ER diagram
 
 Implement triggers
 
