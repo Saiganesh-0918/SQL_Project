@@ -15,7 +15,6 @@ Perform analytical and operational SQL queries
 
 Demonstrate enterprise-level SQL features
 
-Project Structure
 SQL_PROJECT
 │
 ├── creation
