@@ -16,7 +16,9 @@ Perform analytical and operational SQL queries
 
 Demonstrate enterprise-level SQL features
 
-Project Structure
+## Project Structure
+
+```
 SQL_PROJECT
 │
 ├── creation
@@ -41,6 +43,7 @@ SQL_PROJECT
 │   └── w_functions.sql
 │
 └── exec.sql
+```
 
 Technologies Used
 
