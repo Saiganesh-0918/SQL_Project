@@ -1,0 +1,14 @@
+LOAD DATA LOCAL INFILE 'data/customers.csv'
+INTO TABLE customers
+FIELDS TERMINATED BY ','
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE 'data/accounts.csv'
+INTO TABLE accounts
+FIELDS TERMINATED BY ','
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE 'data/transactions.csv'
+INTO TABLE transactions
+FIELDS TERMINATED BY ','
+IGNORE 1 ROWS;
